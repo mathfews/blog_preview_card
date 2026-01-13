@@ -86,3 +86,20 @@ body {
 p::selection {
     background-color: #f5d04e;
 }
+
+@media screen and (min-width: 900px) {
+    .card {
+        width: 400px;
+        height: 550px;
+    }
+
+    .image {
+        width: 400px;
+        display: flex;
+        margin: auto;
+    }
+
+    .authorSection {
+        position: relative;
+    }
+}
