@@ -73,7 +73,7 @@ body {
 
 .title:hover {
     color: #f5d04e;
-    transition: color 0.1s ease;
+    transition: color 0.2s ease;
     cursor: pointer;
 }
 
