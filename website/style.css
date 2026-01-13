@@ -44,3 +44,29 @@ body {
     width: 20%;
     height: 5%;
 }
+.date {
+    font-size: 15px;
+}
+
+.title {
+    font-size: 25px;
+}
+
+.description {
+    font-size: 20px;
+    color: gray;
+}
+
+.avatar {
+    scale: 60%;
+}
+
+.authorSection {
+    display: flex;
+    padding-top: 10px;
+}
+
+.author {
+    font-size: 20px;
+    font-weight: bold;
+}
