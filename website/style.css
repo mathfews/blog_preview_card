@@ -70,3 +70,19 @@ body {
     font-size: 20px;
     font-weight: bold;
 }
+
+.title:hover {
+    color: #f5d04e;
+    transition: color 0.1s ease;
+    cursor: pointer;
+}
+
+.author:hover {
+    color: #f5d04e;
+    transition: color 0.1s ease;
+    cursor: pointer;
+}
+
+p::selection {
+    background-color: #f5d04e;
+}
